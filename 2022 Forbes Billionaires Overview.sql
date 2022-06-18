@@ -1,5 +1,4 @@
---For a visual representation of some of these queries, here is my [Tableau profile](https://public.tableau.com/app/profile/christian1038/viz/ForbesBillionaires_16554463491400/Dashboard1?publish=yes); it is under Forbes Billionaires.
-
+For a visual representation of some of these queries, here is my https://public.tableau.com/app/profile/christian1038/viz/ForbesBillionaires_16554463491400/Dashboard1?publish=yes); it is under Forbes Billionaires.
 create database Forbes;
 use forbes;                        
 
